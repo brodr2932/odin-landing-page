@@ -8,6 +8,16 @@ body {
     font-family: Roboto, sans-serif;
 }
 
+header,
+.hero-section {
+    background-color: #1F2937;
+}
+
+.header-logo, 
+.hero-main-text {
+    color: #F9FAF8
+}
+
 .hero-img {
     width: 300px;
     height: auto;
