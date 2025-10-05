@@ -8,6 +8,15 @@ body {
     font-family: Roboto, sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
+a,
+.hero-secondary-text {
+    color: #E5E7EB;
+}
+
 header,
 .hero-section {
     background-color: #1F2937;
