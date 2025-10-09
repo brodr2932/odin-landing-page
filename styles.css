@@ -6,6 +6,7 @@
 
 /* 
 -Type Selectors
+    --descendant selectors (if any)
 -Class Selectors
 -Grouped Selectors
 */
@@ -19,10 +20,29 @@ a {
     text-decoration: none;
 }
 
+nav {
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 23px 0;
+}
+
+nav ul {
+    display: flex;
+    gap: 20px;
+}
+
 .container {
     /* border: 1px solid red; */
     margin: 0 auto;
     width: 75%;
+}
+
+.header-logo {
+    color: #FFF;
+    font-size: 1.35rem;
+    font-weight: 900;
 }
 
 .hero-img {
