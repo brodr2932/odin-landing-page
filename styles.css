@@ -13,7 +13,6 @@
 
 body {
     font-family: Roboto, sans-serif;
-    font-size: 1.2rem;
 }
 
 a {
@@ -41,7 +40,6 @@ nav ul {
 
 .header-logo {
     color: #FFF;
-    font-size: 1.35rem;
     font-weight: 900;
 }
 
