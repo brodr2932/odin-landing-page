@@ -4,6 +4,12 @@
     padding: 0;
 }
 
+/* 
+-Type Selectors
+-Class Selectors
+-Grouped Selectors
+*/
+
 body {
     font-family: Roboto, sans-serif;
     font-size: 1.2rem;
@@ -13,15 +19,20 @@ a {
     text-decoration: none;
 }
 
-a,
-.hero-secondary-text {
-    color: #E5E7EB;
-}
-
 .container {
     /* border: 1px solid red; */
     margin: 0 auto;
     width: 75%;
+}
+
+.hero-img {
+    width: 300px;
+    height: auto;
+}
+
+a,
+.hero-secondary-text {
+    color: #E5E7EB;
 }
 
 header,
@@ -34,7 +45,3 @@ header,
     color: #F9FAF8
 }
 
-.hero-img {
-    width: 300px;
-    height: auto;
-}
