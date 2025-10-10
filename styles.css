@@ -49,6 +49,10 @@ nav ul {
     font-weight: 900;
 }
 
+.hero-secondary-text {
+    margin-bottom: 15px;
+}
+
 .hero-section .container {
     display: flex;
     justify-content: space-between;
