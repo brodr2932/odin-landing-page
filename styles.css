@@ -68,6 +68,14 @@ nav ul {
     font-weight: 900;
 }
 
+.information-square-container {
+    display: flex;
+}
+
+.information-block {
+    border: 1px solid red;
+}
+
 .hero-section .container {
     display: flex;
     justify-content: space-between;
