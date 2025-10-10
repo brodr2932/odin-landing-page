@@ -44,11 +44,6 @@ nav ul {
     font-weight: 900;
 }
 
-.hero-section {
-    /* border: 1px solid red; */
-    padding: 50px 0;
-}
-
 .hero-main-text {
     font-size: 48px;
     font-weight: 900;
@@ -56,35 +51,6 @@ nav ul {
 
 .hero-secondary-text {
     margin-bottom: 13px;
-}
-
-.information-section {
-    border: 1px solid red;
-}
-
-.information-main-text {
-    color: #1F2937;
-    font-size: 36px;
-    font-weight: 900;
-}
-
-.information-square-container {
-    display: flex;
-}
-
-.information-block {
-    border: 1px solid red;
-}
-
-.hero-section .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.hero-section .container > div:first-child {
-    /* border: 1px solid red; */
-    padding-right: 100px;
 }
 
 .hero-img {
@@ -101,6 +67,48 @@ nav ul {
     padding: 5px 25px;
 }
 
+.information-main-text {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+    padding-bottom: 45px;
+}
+
+.information-square-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.information-block {
+    /* border: 1px solid red; */
+}
+
+.information-square {
+    border: 3px solid #3882F6;
+    border-radius: 15px;
+    height: 175px;
+    width: 175px;
+}
+
+.information-subtext {
+    color: #1F2937;
+    text-align: center;
+}
+
+.hero-section .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-section .container > div:first-child {
+    /* border: 1px solid red; */
+    padding-right: 100px;
+}
+
+
 a,
 .hero-secondary-text {
     color: #E5E7EB;
@@ -115,6 +123,11 @@ header,
 .header-logo, 
 .hero-main-text {
     color: #F9FAF8
+}
+
+.hero-section,
+.information-section {
+    padding: 50px 0;
 }
 
 .hero-btn,
