@@ -55,6 +55,11 @@ nav ul {
     align-items: center;
 }
 
+.hero-section .container > div:first-child {
+    /* border: 1px solid red; */
+    padding-right: 100px;
+}
+
 .hero-img {
     width: 475px;
     height: auto;
