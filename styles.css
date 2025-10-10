@@ -74,3 +74,8 @@ header,
 .hero-main-text {
     color: #F9FAF8
 }
+
+.hero-btn,
+.cta-background {
+    background-color: #3882F6;
+}
