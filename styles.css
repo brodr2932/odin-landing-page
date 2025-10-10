@@ -60,6 +60,14 @@ nav ul {
     height: auto;
 }
 
+.hero-btn {
+    border: none;
+    border-radius: 5px;
+    color: #FFF;
+    font-weight: 900;
+    padding: 5px 25px;
+}
+
 a,
 .hero-secondary-text {
     color: #E5E7EB;
