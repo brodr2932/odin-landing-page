@@ -46,6 +46,7 @@ nav ul {
 
 .hero-section .container {
     display: flex;
+    justify-content: space-between;
 }
 
 .hero-img {
