@@ -58,6 +58,16 @@ nav ul {
     margin-bottom: 13px;
 }
 
+.information-section {
+    border: 1px solid red;
+}
+
+.information-main-text {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
 .hero-section .container {
     display: flex;
     justify-content: space-between;
