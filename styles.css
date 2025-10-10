@@ -44,6 +44,10 @@ nav ul {
     font-weight: 900;
 }
 
+.hero-section .container {
+    display: flex;
+}
+
 .hero-img {
     width: 300px;
     height: auto;
@@ -63,4 +67,3 @@ header,
 .hero-main-text {
     color: #F9FAF8
 }
-
