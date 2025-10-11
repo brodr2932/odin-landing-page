@@ -105,6 +105,16 @@ nav ul {
     text-align: center;
 }
 
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+
+
+
+
+
+
 .hero-section .container {
     display: flex;
     justify-content: space-between;
@@ -115,7 +125,6 @@ nav ul {
     /* border: 1px solid red; */
     padding-right: 100px;
 }
-
 
 a,
 .hero-secondary-text {
