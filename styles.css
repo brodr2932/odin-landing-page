@@ -110,7 +110,8 @@ nav ul {
 }
 
 .quote-section .container {
-    border: 1px solid red;
+    /* border: 1px solid red; */
+    padding: 100px 0;
     width: 50%;
 }
 
