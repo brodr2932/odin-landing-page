@@ -136,6 +136,13 @@ nav ul {
     color: #FFF;
 }
 
+.cta-background {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
 
 
 .hero-section .container {
