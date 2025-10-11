@@ -127,10 +127,6 @@ nav ul {
   gap: 60px;
 }
 
-.information-block {
-  /* empty for now */
-}
-
 .information-square {
   border: 3px solid #3882F6;
   border-radius: 15px;
