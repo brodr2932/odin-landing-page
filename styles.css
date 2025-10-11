@@ -132,6 +132,11 @@ nav ul {
     top: 10px;
 }
 
+.cta-section {
+    color: #FFF;
+}
+
+
 
 .hero-section .container {
     display: flex;
