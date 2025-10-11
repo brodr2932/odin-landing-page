@@ -145,7 +145,7 @@ nav ul {
 }
 
 .cta-main-text {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 900;
 }
 
@@ -156,9 +156,11 @@ nav ul {
 
 .cta-btn {
     background-color: #3882F6;
-    border: 1px solid #FFF;
+    border: 1.5px solid #FFF;
     border-radius: 3px;
     color: #FFF;
+    font-size: 16px;
+    font-weight: 700;
     padding: 3px 22px;
 }
 
