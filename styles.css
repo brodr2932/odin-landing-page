@@ -44,6 +44,10 @@ nav ul {
     font-weight: 900;
 }
 
+.hero-section {
+    padding: 50px 0;
+}
+
 .hero-main-text {
     font-size: 48px;
     font-weight: 900;
@@ -65,6 +69,10 @@ nav ul {
     cursor: pointer;
     font-weight: 900;
     padding: 5px 25px;
+}
+
+.information-section {
+    padding: 50px 0 110px 0;
 }
 
 .information-main-text {
@@ -123,11 +131,6 @@ header,
 .header-logo, 
 .hero-main-text {
     color: #F9FAF8
-}
-
-.hero-section,
-.information-section {
-    padding: 50px 0;
 }
 
 .hero-btn,
