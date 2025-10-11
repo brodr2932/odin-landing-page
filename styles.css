@@ -86,7 +86,7 @@ nav ul {
 .information-square-container {
     display: flex;
     justify-content: center;
-    gap: 40px;
+    gap: 60px;
 }
 
 .information-block {
@@ -109,10 +109,24 @@ nav ul {
     background-color: #E5E7EB;
 }
 
+.quote-section .container {
+    border: 1px solid red;
+    width: 50%;
+}
 
+.quote-text {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+}
 
-
-
+.quote-citation {
+    display: block;
+    font-style: normal;
+    font-weight: 900;
+    text-align: right;
+}
 
 
 .hero-section .container {
