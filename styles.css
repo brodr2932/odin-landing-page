@@ -33,6 +33,15 @@ nav ul {
     list-style-type: none;
 }
 
+footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: 12px;
+    font-weight: 300;
+    text-align: center;
+    padding: 30px 0;
+}
+
 .container {
     /* border: 1px solid red; */
     margin: 0 auto;
@@ -163,6 +172,9 @@ nav ul {
     font-weight: 700;
     padding: 5px 25px;
 }
+
+
+
 
 
 
