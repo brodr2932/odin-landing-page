@@ -9,6 +9,7 @@ The purpose of this project is to utilize all the skills I've learned from The O
 - Reusuable container class for layout purposes
 
 ## Live Demo
+https://brodr2932.github.io/odin-landing-page/
 
 ## Built With
 - HTML5
