@@ -178,6 +178,7 @@ nav ul {
 }
 
 .cta-background {
+  border-radius: 10px;
   display: flex;
   justify-content: space-around;
   align-items: center;
